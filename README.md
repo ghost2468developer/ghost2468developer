@@ -30,15 +30,7 @@
 </div>
 <br />
 
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ghost2468developer&theme=dark&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghost2468developer&layout=compact)](https://github.com/OutlawDev)
-
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ghost2468developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ghost2468developer&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghost2468developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
