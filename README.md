@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🐸 I am Siyabonga ( Outlaw Programmer ) </h1>
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Siyabonga+Software+Engineer"></div>
 <br />
 <h2 align="center">Software Engineer | Full Stack Developer | Ethical Hacker </h2>
 <br />
