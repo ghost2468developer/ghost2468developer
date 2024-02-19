@@ -27,7 +27,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
 </div>
 <br />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ghost2468developer&label=Profile%20views&color=0e75b6&style=flat" alt="saahilanande" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghost2468developer" alt="ghost2468developer" /></a> </p>
 <br />
