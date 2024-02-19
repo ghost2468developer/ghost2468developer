@@ -38,6 +38,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghost2468developer&layout=compact)](https://github.com/OutlawDev)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ghost2468developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ghost2468developer&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghost2468developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <h2>Reach out to me</h2>
 <a href="https://www.linkedin.com/in/kenneth-siyabonga-ncube/" target="_blank" align="center">
         <img src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
