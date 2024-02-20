@@ -28,9 +28,6 @@
 </div>
 <br />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghost2468developer" alt="ghost2468developer" /></a> </p>
-<br />
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ghost2468developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ghost2468developer&theme=dark&hide_border=false)<br/>
