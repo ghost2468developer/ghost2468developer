@@ -36,6 +36,18 @@
 
 <br/>
 
+<div align="center">
+<a href="https://github.com/codeWithEdison">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghost2468developer&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghost2468developer&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghost2468developer&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ghost2468developer&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghost2468developer&theme=2077" height="180em" />
+</div>
+
+
+<br/>
+
 <h2>Reach out to me</h2>
 <a href="https://www.linkedin.com/in/kenneth-siyabonga-ncube/" target="_blank" align="center">
         <img src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
