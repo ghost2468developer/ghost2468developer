@@ -1,5 +1,7 @@
 # <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Software-Engineer+Back-End-Developer+Ghost-DEV"></div>
+<br/>
 
+![Contribution](https://github.com/ProgrammerDATCH/ProgrammerDATCH/blob/output/github-contribution-grid-snake-dark.svg)
 
 <br />
 <div align="center">
