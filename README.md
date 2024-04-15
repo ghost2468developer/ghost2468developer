@@ -32,6 +32,10 @@
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost2468developer&layout=compact&theme=material-palenight" alt=codeWithEdison />
 
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ghost2468developer&show_icons=true&locale=en&theme=nightowl" alt="codeWithEdison" /></p>
+
+<br/>
+
 <h2>Reach out to me</h2>
 <a href="https://www.linkedin.com/in/kenneth-siyabonga-ncube/" target="_blank" align="center">
         <img src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
