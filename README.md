@@ -45,8 +45,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghost2468developer&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ghost2468developer&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghost2468developer&theme=2077" height="180em" />
-<br/>
-[![Visits](https://img.shields.io/badge/dynamic/json?color=blue&label=Visits&query=%24.views&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fghost2468developer%2Fghost2468developer)](https://github.com/ghost2468developer/ghost2468developer)
 </div>
 
 
