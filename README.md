@@ -12,7 +12,7 @@
 <br />
 <h2>Skills</h2>
 <br />
-<h3><b>Tech Stack:</b> | JavaScript | TypeScript | React | React-Native | AWS | </h3>
+<h3><b>Tech Stack:</b> JavaScript | TypeScript | React | React-Native | AWS | </h3>
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
