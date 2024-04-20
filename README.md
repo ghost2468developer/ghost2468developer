@@ -34,10 +34,6 @@
 
 
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ghost2468developer&show_icons=true&locale=en&theme=nightowl" alt="codeWithEdison" /></p>
-
-<br/>
-
 <div align="center">
 <a href="https://github.com/codeWithEdison">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghost2468developer&theme=2077" height="180em" />
