@@ -31,11 +31,11 @@
 <br />
 
 ## 📊 GitHub Stats:
-
+<div align="center">
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost2468developer&layout=compact&theme=material-palenight" alt=codeWithEdison />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ghost2468developer&show_icons=true&locale=en&theme=nightowl" alt="codeWithEdison" /></p>
-
+</div>
 <br/>
 
 <div align="center">
