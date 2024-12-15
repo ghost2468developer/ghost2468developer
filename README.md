@@ -50,6 +50,15 @@
 
 <br/>
 
+<p align="center">
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=odest&hide_border=true&theme=transparent"/> 
+</p>
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghost2468developer&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ghost2468developer&theme=transparent&utcOffset=0" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghost2468developer&theme=transparent" height="180em" alt="Commitments"/>
+</div>
+
 <h2>Reach out to me</h2>
 <a href="https://www.linkedin.com/in/kenneth-siyabonga-ncube/" target="_blank" align="center">
         <img src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
