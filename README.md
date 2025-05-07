@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Software-Engineer+Back-End-Developer+Ghost-DEV"></div>
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Software-Engineer+Front-End-Developer+Back-End-Developer+Mobile-Developer+Flutter-Developer+Ghost-DEV"></div>
 <br/>
 
 ![Contribution](https://github.com/ProgrammerDATCH/ProgrammerDATCH/blob/output/github-contribution-grid-snake-dark.svg)
