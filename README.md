@@ -32,10 +32,10 @@
 <br />
 
 ## 📊 GitHub Stats:
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost2468developer&layout=compact&theme=material-palenight" alt="Top Languages" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghost2468developer&show_icons=true&locale=en&theme=nightowl" alt="GitHub Stats" />
-</p>
+</p> -->
 <br/>
 
 <div align="center">
