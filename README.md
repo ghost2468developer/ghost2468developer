@@ -1,9 +1,6 @@
 # <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=9D00FF&vCenter=true&width=1000&lines=Software+Engineer+;Full-Stack+Developer;Testing+%26+Optimization;Ghost-DEV+Active"></div>
 
-<p align="center">
-  <img src="https://github.com/ghost2468developer/ghost2468developer/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
-![Contribution](https://github.com/ProgrammerDATCH/ProgrammerDATCH/blob/output/github-contribution-grid-snake-dark.svg)
 <div align="center">
     <img src="https://i.redd.it/gc5sdce7vr2b1.gif" width="600" />
 </div> 
