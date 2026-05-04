@@ -39,14 +39,6 @@ I am a **Software Engineer** focused on building resilient, high-performance sys
 
 ### 📊 Performance Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghost2468developer&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost2468developer&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" />
-</div>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost2468developer&layout=compact&theme=material-palenight" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghost2468developer&show_icons=true&locale=en&theme=nightowl" alt="GitHub Stats" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghost2468developer&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
