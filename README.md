@@ -1,76 +1,67 @@
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Software-Engineer/Tester+Ghost-DEV"></div>
-<br/>
-
-![Contribution](https://github.com/ProgrammerDATCH/ProgrammerDATCH/blob/output/github-contribution-grid-snake-dark.svg)
-
-<br />
-<div align="center">
-    <img src="https://i.redd.it/gc5sdce7vr2b1.gif" />
-</div> 
-<br />
-<h3 align="center">Unbound by limitations, I forge ahead with unwavering determination. Rules may bend, but my code remains unbreakable. In this realm of ones and zeros, I am the maestro, orchestrating a symphony where innovation reigns supreme. No bounds can contain me, for my code knows no barriers, and nothing can hold back the unbridled power I unleash. We don't merely follow rules; we sculpt a reality where the code not only works but thrives.</h3>
-<br />
-<h2>Skills</h2>
-<br />
-<h3><b>Tech Stack:</b> JavaScript | TypeScript | React | React-Native | AWS | GraphQL | Prisma | Dart | Java | Python 3 |</h3>
-
-<!-- <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" title="Prisma" alt="Prisma" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
-</div> -->
-<br />
-
-## 📊 GitHub Stats:
-<!-- <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost2468developer&layout=compact&theme=material-palenight" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghost2468developer&show_icons=true&locale=en&theme=nightowl" alt="GitHub Stats" />
-</p> -->
-<br/>
-
-<div align="center">
-<a href="https://github.com/codeWithEdison">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghost2468developer&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghost2468developer&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghost2468developer&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ghost2468developer&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghost2468developer&theme=2077" height="180em" />
-</div>
-
-
-<br/>
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=9D00FF&vCenter=true&width=1000&lines=Software+Engineer+;Full-Stack+Developer;Testing+%26+Optimization;Ghost-DEV+Active"></div>
 
 <p align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=odest&hide_border=true&theme=transparent"/> 
+  <img src="https://github.com/ghost2468developer/ghost2468developer/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
+
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghost2468developer&theme=transparent" height="180em" alt="Stats"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ghost2468developer&theme=transparent&utcOffset=0" height="180em" alt="Time Graph"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghost2468developer&theme=transparent" height="180em" alt="Commitments"/>
+    <img src="https://i.redd.it/gc5sdce7vr2b1.gif" width="600" />
+</div> 
+
+---
+
+### ⚡ The Ghost in the Machine
+I am a **Software Engineer** focused on building resilient, high-performance systems. Whether it’s re-architecting backend logic or crafting seamless frontend experiences, I build code that doesn't just work—it thrives. I specialize in the **MERN stack**, **Mobile Development**, and **Cloud Infrastructure**.
+
+- 🔭 I’m currently working on high-performance modules in **C#** and **C++**.
+- 🌱 Learning more about **System Architecture** and **Scalable Cloud Patterns**.
+- 💬 Ask me about **React, Node.js, or SQL optimization**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <br/>
+  <!-- Frameworks/Tools -->
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </div>
 
-<h2>Reach out to me</h2>
-<a href="https://www.linkedin.com/in/kenneth-siyabonga-ncube/" target="_blank" align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
-</a>
-<a href="https://twitter.com/binary_tree1" target="_blank" align="center">
-        <img src="https://freebiehive.com/wp-content/uploads/2023/08/New-Twitter-Logo.jpg" title="Twitter" alt="Twitter" width="40" height="40"/>
-</a>
+---
 
+### 📊 Performance Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghost2468developer&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost2468developer&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghost2468developer&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+<div align="left">
+  <a href="https://www.linkedin.com/in/kenneth-siyabonga-ncube/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/binary_tree1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
+
+---
+<p align="center"><i>"Rules may bend, but the code remains unbreakable."</i></p>
