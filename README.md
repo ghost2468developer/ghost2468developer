@@ -8,7 +8,7 @@
 ---
 
 ### ⚡ The Ghost in the Machine
-I am a **Software Engineer** focused on building resilient, high-performance systems. Whether it’s re-architecting backend logic or crafting seamless frontend experiences, I build code that doesn't just work—it thrives. I specialize in the **MERN stack**, **Mobile Development**, and **Cloud Infrastructure**.
+I am a **Software Engineer** focused on building resilient, high-performance systems. Whether it’s re-architecting backend logic or crafting seamless frontend experiences, I build code that doesn't just work, it thrives. I specialize in the **MERN stack**, **Mobile Development**, and **Cloud Infrastructure**.
 
 - 🔭 I’m currently working on high-performance modules in **C#** and **C++**.
 - 🌱 Learning more about **System Architecture** and **Scalable Cloud Patterns**.
