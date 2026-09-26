@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=415&height=44&lines=Ghost%20Developer;Member%20of%20the%20Outlaw%20Devs" alt="Typing headlines" />
 </p>
 
+<div align="center">
+    <img src="https://i.redd.it/gc5sdce7vr2b1.gif" width="600" />
+</div> 
+
 ### 🚀 About Me
 
 Full Stack Software Engineer | TypeScript • React • Next.js • Node.js • PostgreSQL • AWS | Building scalable applications, APIs &amp; performance-focused systems
